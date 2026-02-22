@@ -6,16 +6,12 @@ A robust deepfake video detection system built to combat KYC fraud, online scams
 Click the link below to view the inference pipeline in action:
 **[View Flask Inference Deepfake Detection Demo](https://www.dropbox.com/scl/fi/sunsw6tld7iqencc02ekg/Flask_Inference_Deepfake_Detection.mp4?rlkey=bakc59to48gm77e2rb5z6ndvr&st=kwor0vg3&dl=1)**
 
----
-
 ## 📊 Slides (Architecture & Results)
 
 A concise slide deck summarising the system design, model architecture,
 and evaluation results for this project:
 
 👉 **View slides (PDF):** `slides/Deepfake_Detection_Public_Summary.pdf`
-
----
 
 ## 🚀 Key Features
 * **Distributed Processing:** Utilizes **Apache Spark** for handling large-scale video datasets and preprocessing.
