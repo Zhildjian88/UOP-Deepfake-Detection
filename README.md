@@ -12,7 +12,7 @@ A concise slide deck summarising the system design, model architecture,
 and evaluation results for this project:
 
 👉 **View slides (PDF):**  
-[Deepfake Detection – Architecture & Results (PDF)](https://github.com/Zhildjian88/UOP-Deepfake-Detection/blob/main/UOP_Deepfake_Detection_Public_Summary.pdf)
+**[Deepfake Detection – Architecture & Results (PDF)](https://github.com/Zhildjian88/UOP-Deepfake-Detection/blob/main/UOP_Deepfake_Detection_Public_Summary.pdf)**
 
 ## 🚀 Key Features
 * **Distributed Processing:** Utilizes **Apache Spark** for handling large-scale video datasets and preprocessing.
